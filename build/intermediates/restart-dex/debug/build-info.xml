@@ -4,26 +4,26 @@
     api-level="23"
     density="560dpi"
     format="4"
-    timestamp="491322445757051" >
+    timestamp="510426056568708" >
 
     <task
         name="javac"
-        duration="3229" />
+        duration="10997" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2977" />
+        duration="10772" />
     <task
         name="verifier"
-        duration="1084" />
+        duration="2692" />
 
     <artifact
         location="C:\Users\Michael Harrell\Downloads\[GITHUB]\Synapse-plus\build\outputs\apk\Synapse-plus-debug.apk"
         type="MAIN" />
 
-    <build timestamp="491322445757051" >
+    <build timestamp="510426056568708" >
         <artifact
             location="C:\Users\Michael Harrell\Downloads\[GITHUB]\Synapse-plus\build\outputs\apk\Synapse-plus-debug.apk"
             type="MAIN" />
