@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Michael Harrell\Downloads\[GITHUB]\Synapse-plus\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2805ebc527c61ab6bdb47a363b4bdb6aee3939bd">
+        <dex dex="C:\Users\Michael Harrell\Downloads\[GITHUB]\Synapse-plus\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_9693e42c053b20f46d6f7deeb75ead1e04799986\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Michael Harrell\Downloads\[GITHUB]\Synapse-plus\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="986b26e1ba9b17de81f8cd0b5a960073a219695b">
+        <dex dex="C:\Users\Michael Harrell\Downloads\[GITHUB]\Synapse-plus\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_97568c38205874cfa8dce188a2d0871f2da332cf\classes.dex" />
+    </item>
+
+</items>

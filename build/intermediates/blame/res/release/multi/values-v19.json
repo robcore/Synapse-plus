@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\release\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 2,
+                        "endColumn": 12,
+                        "endOffset": 86
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 94,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 591
+                    }
+                }
+            }
+        ]
+    }
+]

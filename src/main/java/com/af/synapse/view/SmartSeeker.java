@@ -178,7 +178,7 @@ public class SmartSeeker extends View {
     }
 
     private void drawThumb(Canvas canvas, Bitmap thumb, float position) {
-        canvas.drawBitmap(thumb, position, (float) ((getHeight() * 0.5f) - thumbHalfHeight), paint);
+        canvas.drawBitmap(thumb, position, (getHeight() * 0.5f) - thumbHalfHeight, paint);
     }
 
     @Override

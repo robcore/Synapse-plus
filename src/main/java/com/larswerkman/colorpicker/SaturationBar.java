@@ -251,7 +251,7 @@ public class SaturationBar extends View {
 		// Draw the pointer.
 		canvas.drawCircle(mBarPointerPosition, mBarPointerHaloRadius,
 				mBarPointerRadius, mBarPointerPaint);
-	};
+	}
 
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
@@ -356,7 +356,7 @@ public class SaturationBar extends View {
 		    x = mBarLength;
 	    }
 
-        return (float)(mPosToSatFactor * x);
+        return mPosToSatFactor * x;
     }
 
 	/**

@@ -1,5 +1,6 @@
 package com.af.synapse;
 
+import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.WallpaperManager;
 import android.content.SharedPreferences;
@@ -128,6 +129,7 @@ public class Settings extends PreferenceActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    @SuppressLint("ValidFragment")
     public class MyPreferenceFragment extends PreferenceFragment {
         @Override
         public void onCreate(final Bundle savedInstanceState)

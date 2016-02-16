@@ -525,10 +525,10 @@ class ColourController implements View.OnClickListener, ColorPicker.OnColorChang
 
         if (view == hueMinus || view == huePlus) {
             if (view == hueMinus)
-                hsv[0] = (float)((hsv[0] >= 0 && hsv[0] <= 1) ? 359 : (hsv[0] - 1));
+                hsv[0] = (hsv[0] >= 0 && hsv[0] <= 1) ? 359 : (hsv[0] - 1);
 
             if (view == huePlus)
-                hsv[0] = (float)((hsv[0] >= 359 && hsv[0] <= 360) ? 0 : (hsv[0] + 1));
+                hsv[0] = (hsv[0] >= 359 && hsv[0] <= 360) ? 0 : (hsv[0] + 1);
 
             huePicker.setColor(Color.HSVToColor(hsv));
             return;

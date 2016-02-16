@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scrubber_control_disabled_holo.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_cancel.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\navigation_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_next_item.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\navigation_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_accept.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\navigation_accept.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_expand.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\navigation_expand.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_add_to_queue.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\ic_action_add_to_queue.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_previous_item.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\navigation_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_settings.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_undo.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\ic_action_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_select_all.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\ic_action_select_all.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scrubber_control_normal_holo.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\navigation_collapse.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\navigation_collapse.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scrubber_control_focused_holo.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scrubber_control_pressed_holo.png",
+        "source": "C:\\Users\\Michael Harrell\\Downloads\\[GITHUB]\\Synapse-plus\\src\\main\\res\\drawable-mdpi\\scrubber_control_pressed_holo.png"
+    }
+]

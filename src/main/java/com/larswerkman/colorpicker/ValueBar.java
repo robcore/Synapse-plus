@@ -253,7 +253,7 @@ public class ValueBar extends View {
 		// Draw the pointer.
 		canvas.drawCircle(mBarPointerPosition, mBarPointerHaloRadius,
 				mBarPointerRadius, mBarPointerPaint);
-	};
+	}
 
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
@@ -354,7 +354,7 @@ public class ValueBar extends View {
 		    x = mBarLength;
 	    }
 
-        return (float) (1 - (mPosToSatFactor * x));
+        return 1 - (mPosToSatFactor * x);
     }
 
 	/**

@@ -226,7 +226,7 @@ public class ColorPicker extends View {
 	 * 
 	 */
 	public interface OnColorChangedListener {
-		public void onColorChanged(int color);
+		void onColorChanged(int color);
 	}
 
 	/**

@@ -16,6 +16,6 @@ import java.util.ArrayList;
  */
 
 public interface ActionValueNotifierClient extends ActionValueClient {
-    public String getId();
-    public void onNotify(ActionValueNotifierClient source, ActionValueEvent notification);
+    String getId();
+    void onNotify(ActionValueNotifierClient source, ActionValueEvent notification);
 }
